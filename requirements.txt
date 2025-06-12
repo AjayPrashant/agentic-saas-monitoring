@@ -1,0 +1,9 @@
+aiokafka
+confluent-kafka
+langgraph
+streamlit
+mlflow
+slack_sdk
+numpy<2
+chromadb
+sentence-transformers

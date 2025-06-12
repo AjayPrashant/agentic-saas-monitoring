@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+.Python
+.env
+.venv
+venv/
+ENV/
+env/
+*.db
+*.sqlite3
+*.log
+
+# VSCode
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.pid
+docker-compose.override.yml
+logs/
+
+# Mac
+.DS_Store
+
+# Slack tokens or secrets
+secrets.env
+.env.local
+*.secret

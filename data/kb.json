@@ -1,0 +1,38 @@
+[
+    {
+        "id": "kb1",
+        "text": "Subscription cancellations from new users may indicate onboarding or product fit issues."
+    },
+    {
+        "id": "kb2",
+        "text": "Frequent login failures can indicate authentication problems or bot activity."
+    },
+    {
+        "id": "kb3",
+        "text": "500_INTERNAL errors suggest backend service instability, requiring immediate investigation."
+    },
+    {
+        "id": "kb4",
+        "text": "404_NOT_FOUND errors may signal broken customer journeys or missing content."
+    },
+    {
+        "id": "kb5",
+        "text": "Multiple support tickets related to payment failures can indicate payment system issues."
+    },
+    {
+        "id": "kb6",
+        "text": "Users who have canceled their subscription more than once are at high churn risk."
+    },
+    {
+        "id": "kb7",
+        "text": "High usage of a feature followed by a sudden stop may indicate a UX issue or bug."
+    },
+    {
+        "id": "kb8",
+        "text": "An increase in subscription cancellations during a new release may indicate regression bugs."
+    },
+    {
+        "id": "kb9",
+        "text": "Users from known high-churn segments should be monitored closely for early intervention."
+    }
+]
